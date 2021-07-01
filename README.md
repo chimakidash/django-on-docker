@@ -1,5 +1,17 @@
 # Dockerizing Django with Postgres, Gunicorn, and Nginx
 
+## State transition
++ End of django girls tutorial
++ check 2form 1template
++ https://note.com/mihami383/n/nc164d032d91e
+
+## Reproduction method
++ run docker-compose 
+```
+# docker-compose up -d
+```
++ access port 8000 on cloud shell
+
 ## Want to learn how to build this?
 
 Check out the [post](https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx).
