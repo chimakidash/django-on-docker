@@ -1,0 +1,8 @@
+{% block contains %}
+<p>Set版</p>
+<form class="create" method="post">
+ {% csrf_token %}
+   {{form}}
+   {{form2}}
+</form>
+{% endblock %}
